@@ -15,18 +15,18 @@
     "*.{js,vue}": "yarn lint"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.12.0",
-    "@nuxtjs/pwa": "^3.0.0-0",
-    "nuxt": "^2.13.3"
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/pwa": "^3.0.2",
+    "nuxt": "^2.14.4"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config": "^3.0.0",
+    "@nuxtjs/eslint-config": "^3.1.0",
     "@nuxtjs/eslint-module": "^2.0.0",
     "@nuxtjs/vuetify": "^1.11.2",
     "babel-eslint": "^10.0.1",
-    "eslint": "^7.5.0",
+    "eslint": "^7.7.0",
     "eslint-plugin-nuxt": ">=1.0.0",
     "husky": "^4.0.0",
-    "lint-staged": "^10.2.11"
+    "lint-staged": "^10.2.13"
   }
 }
